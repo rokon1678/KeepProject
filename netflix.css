@@ -603,3 +603,65 @@ bottom: 5px;
     line-height: 80px;
 
 }
+
+#change {
+    position: absolute;
+    top: 100%;
+}
+
+#sign_1{
+    width: 450px;
+    height: 741px;
+    padding: 48px 68px;
+    background-color: #000000B3;
+    position: absolute;
+    left: 38%;    
+}
+
+#sign_2{
+    min-height: 5%;
+    min-width: 100%;
+}
+
+#h1{
+    font-size: 2rem;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#email{
+height: 3rem;
+width: 100%;
+padding: 26px 8px 26px 16px;
+margin: 10px 0px;
+font-size: 1rem;
+font-family: Arial, Helvetica, sans-serif;
+background-color: #161616B3;
+border: 0.1px solid #ffffff99;
+}
+
+.password{
+    height: 2rem;
+    width: 100%;
+    padding: 26px 8px 26px 16px ;
+    margin: 10px 0px;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #161616B3;
+    border: 0.1px solid #ffffff98;
+    
+}
+
+#login{
+    /* height: 0.5%; */
+    width: 100%;
+    padding: 10px 10px;
+    /* margin: 10px 0px; */
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ff0a0a;
+    border:none;
+    border-radius: 5px;
+    color: #ffffff;
+    
+}
